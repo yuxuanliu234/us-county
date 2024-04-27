@@ -1,6 +1,6 @@
 00000 UNITED STATES
 01000 ALABAMA
-01001 Autauga County, AL
+01001, Autauga County, AL
 01003 Baldwin County, AL
 01005 Barbour County, AL
 01007 Bibb County, AL
@@ -1833,7 +1833,7 @@
 35007 Colfax County, NM
 35009 Curry County, NM
 35011 De Baca County, NM
-35013 Do±a Ana County, NM
+35013 DoÂ±a Ana County, NM
 35015 Eddy County, NM
 35017 Grant County, NM
 35019 Guadalupe County, NM
